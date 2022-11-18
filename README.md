@@ -5,7 +5,7 @@
    </div>
 
    <h1> 
-     hey there :call_me_hand:, I'm Gustavo Noronha
+     hey there :call_me_hand:
    </h1>
 
   ### :gear: Tech Stack :
