@@ -5,10 +5,10 @@
    </div>
 
    <h1> 
-     hey there :call_me_hand:
+     hey :call_me_hand:
    </h1>
 
-  ### :gear: Tech Stack :
+  ### :gear: Tools:
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
