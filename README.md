@@ -4,10 +4,8 @@
     <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350"/>
    </div>
 
-   <h1> 
-     hey :call_me_hand:
-   </h1>
-
+  ---
+  
   ### :gear: Tools:
   
   <div>
