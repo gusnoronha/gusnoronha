@@ -6,7 +6,7 @@
 
   ---
   
-  ### :robot: Tech Stack:
+  ### :joystick: Languages & Tools:
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>&nbsp;
@@ -19,7 +19,7 @@
 
 ---
   
-  ### :heart_on_fire: Stats:
+  ### :robot: Stats:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gusnoronha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
