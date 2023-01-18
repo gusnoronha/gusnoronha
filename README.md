@@ -14,13 +14,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>&nbsp;
-    
-    
----
-  
-  ### :robot: Stats:
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusnoronha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
  
   
 ---
