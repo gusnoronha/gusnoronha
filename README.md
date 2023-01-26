@@ -1,15 +1,13 @@
 <div align="center">
-  
   <div id="header">
     <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350"/>
-   </div>
-
+  </div>
+  
   ---
   
-  ### 	:hammer_and_wrench: My Tech Stack:
+  ### 	:hammer_and_wrench: Tools and Technologies:
   
-  <div>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,jest&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,jest&theme=light&perline=4"/>
   
 ---
 
@@ -18,7 +16,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
   <div>
     <img src="https://komarev.com/ghpvc/?username=gusnoronha&style=flat-square&color=green" alt="Profile-Views"/>
   </div>
