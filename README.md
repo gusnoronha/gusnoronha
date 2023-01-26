@@ -6,7 +6,7 @@
 
   ---
   
-  ### 	:hammer_and_wrench: Tech Stack:
+  ### 	:hammer_and_wrench: My Tech Stack:
   
   <div>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git&theme=light&perline=3" />
