@@ -7,7 +7,7 @@
   
   ### 	:hammer_and_wrench: Tools and Technologies:
   
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git&theme=light&perline=3"/>
   
 ---
 
