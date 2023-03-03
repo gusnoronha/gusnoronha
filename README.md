@@ -5,7 +5,7 @@
   
   # Hi, I'm Gustavo :love_you_gesture:
 
-  ### 	:gear: Tech Stack:
+  ### 	:gear: Tools:
   
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git&theme=light&perline=3"/>
   
