@@ -7,7 +7,7 @@
 
   ### 	:gear: Tools:
   
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git&theme=light&perline=3"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git&theme=light&perline=3"/>
   
 ---
 
