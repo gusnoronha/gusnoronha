@@ -3,11 +3,11 @@
     <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400"/>
   </div>
   
-  # Hi, I'm Gustavo :love_you_gesture:
+  ## Hi, I'm Gustavo :love_you_gesture:
 
-  ### 	:gear: Tools:
+  ### 	:cyclone: Tech:
   
-<img src="https://skillicons.dev/icons?i=html,css,js,git&theme=light&perline=3"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git&theme=light&perline=4"/>
   
 ---
 
