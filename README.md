@@ -7,7 +7,7 @@
 
   ### 	:cyclone: Tech:
   
-<img src="https://skillicons.dev/icons?i=html,css,js,git&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,html,css,js&theme=light&perline=4"/>
   
 ---
 
