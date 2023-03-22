@@ -5,7 +5,7 @@
   
   ## Hi, I'm Gustavo :love_you_gesture:
 
-  ### 	:cyclone: Tech:
+  ### 	:zap: Tech:
   
 <img src="https://skillicons.dev/icons?i=git,html,css,js,py&theme=light&perline=5"/>
   
