@@ -4,7 +4,7 @@
   *I'm Gustavo, Software Engineer & technology enthusiast :love_you_gesture:*
   
 
-  ### 	:zap:  My Tech:
+  ### 	:zap:  Languages & Tools:
   
   <img src="https://skillicons.dev/icons?i=git,html,css,js,py&theme=light&perline=5"/>
 </div>
