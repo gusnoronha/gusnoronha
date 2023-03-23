@@ -3,7 +3,3 @@
   
   *I'm Gustavo, Software Engineer & technology enthusiast :love_you_gesture:*
   
-  ### 	:zap: My Tech:
-  
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts&theme=light&perline=5"/>
-</div>
