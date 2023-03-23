@@ -3,3 +3,5 @@
   
   *I'm Gustavo, Software Engineer & technology enthusiast :love_you_gesture:*
   
+  <img src="https://skillicons.dev/icons?i=neovim,git,html,css,js,py&theme=light" />
+</div>
