@@ -3,5 +3,5 @@
   
   *I'm Gustavo, Software Developer & technology enthusiast :love_you_gesture:*
   
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,nodejs&theme=dark&perline=6" />
 </div>
